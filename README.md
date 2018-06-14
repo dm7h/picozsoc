@@ -2,6 +2,10 @@ PicoSoc port for the icezero FPGA shield.
 ==========================================
 Not extensively tested, use with care ..
 
+NOTE: the QSPI pins are not connected to the iCE40 on the icezero board, 
+so you will not be able to test it without hardware modification.
+
+
 original README:
 
 PicoSoC - A simple example SoC using PicoRV32
